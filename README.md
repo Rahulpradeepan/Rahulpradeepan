@@ -17,6 +17,13 @@ Contributing to open-source projects and collaborating with the developer commun
 🎓 Always eager to learn new technologies and improve my skills.
 💬 Let's connect! Feel free to reach out if you want to collaborate on any projects or just chat about tech.
 
+🔄 Daily Routine:
+Next.js 🚀
+React ⚛️
+JavaScript 🟨
+Sleep 🛌
+Repeat 🔁
+
 
 <!---
 Rahulpradeepan/Rahulpradeepan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
